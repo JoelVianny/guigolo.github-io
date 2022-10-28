@@ -48,14 +48,14 @@
   + Trello – программа для управления проектами.
 
 ## ✅ Работа над проектом ведется в команде Empty
-Роль в команде: Системное программирование (СП).
+Роль в команде: Администрирование (тюнинг) АД и Консалтинг (обучение) КО.
 * Репозиторий проекта доступен по ссылке: [StankinBoard](https://github.com/OlFil/StankinBoard)
 * Веб-страница с описанием проекта доступна по ссылке: [Landing page](https://)
 
 ## ✅ Лабораторная работа № 3
 Работа с Cisco Packet Tracer
 1. [Web-Page](https://joelvianny.github.io/guigolo.io/)
-2. [Сценарий Cisco Packet Tracer](src/Lab3.pkt)
+2. [Сценарий Cisco Packet Tracer](lab3/lab_3.pkt)
 
 ## ✅ Экзаменационные билет №30
 
