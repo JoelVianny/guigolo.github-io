@@ -9,7 +9,7 @@
 4. Размещение кода исходной страницы в репозитории.
 5. Размещение веб-страницы на хостинге.
 
-Веб-страница с описанием лабораторных работ доступна по ссылке: [Web-Page](https://olfil.github.io/)
+Веб-страница с описанием лабораторных работ доступна по ссылке: [Web-Page]( https://joelvianny.github.io/guigolo.io/)
 
 ## ✅ Лабораторная работа № 2
 
@@ -54,10 +54,10 @@
 
 ## ✅ Лабораторная работа № 3
 Работа с Cisco Packet Tracer
-1. [Web-Page](https://olfil.github.io/#Lab3)
+1. [Web-Page](https://joelvianny.github.io/guigolo.io/)
 2. [Сценарий Cisco Packet Tracer](src/Lab3.pkt)
 
-## ✅ Экзаменационные билет №22
+## ✅ Экзаменационные билет №30
 
 Ответ на экзаменационный билет доступен по ссылке:
-[билет №22](https://github.com/stankin/inet-2022/wiki/exam22)
+[билет №30](https://github.com/stankin/inet-2022/wiki/exam30)
